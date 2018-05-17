@@ -2,5 +2,5 @@
     <string name="app_name">Sample</string>
     <string name="compile">完成</string>
     <string name="main_count_is_null">当前页数不能为空</string>
-    <string name="main_max_count">最大不能超过100页</string>
+    <string name="main_max_count">最大不能超过1000页</string>
 </resources>
